@@ -5,9 +5,8 @@
 
 ## 🙋‍♀️ About Me:
 
-- 🎓 **BTech in Computer Engineering** from **K.K. Wagh Institute of Engineering Education & Research, Nashik** (SGPA: 8.06)
+- 🎓 **BTech in Computer Engineering** from **K.K. Wagh Institute of Engineering Education & Research, Nashik** 
 - 👩‍💻 Passionate **MERN Stack Developer** with strong communication, teamwork, and problem-solving skills.
-- 🌱 Currently learning **AI/ML integration, Blockchain**, and **Advanced Frontend Development**.
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, JavaScript, C++, Figma**.
 - 📫 Reach me: [khushparv@gmail.com](mailto:khushparv@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khushi-bedmutha-850041257/)
 - 🌐 Portfolio: [portfolio-nine-phi-48.vercel.app](https://portfolio-nine-phi-48.vercel.app/)
