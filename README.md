@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">BTech in Computer Engineering | Frontend Developer | UI/UX Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Khushi Bedmutha</h1>
+<h3 align="center">BTech in Computer Engineering | Aspiring Frontend Developer | UI/UX Enthusiast</h3>
 
 ---
 
-## About Me:
+## 🙋‍♀️ About Me:
 
-- 🎓 I'm currently studying **Computer Engineering**.
-- 🌱 I’m learning **Frontend Web Development** and **UI/UX Design**.
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Bootstrap, C, C++**.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
-- 💡 I’m passionate about web development and design.
+- 🎓 I'm a student at **K.K.W.I.E.R**, pursuing **BTech in Computer Engineering**.
+- 🌱 Currently learning **Frontend Web Development** and **Web Designing**.
+- 💬 Ask me about: **C, C++, HTML, CSS, Bootstrap, JavaScript, React.js**.
+- 📫 How to reach me: [khushparv@gmail.com](mailto:khushparv@gmail.com)
+- 🎨 Passionate about **UI/UX design** and creating interactive web experiences.
 
 ---
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khushi-bedmutha-850041257/)
 
 ---
 
-## 🛠 Tech Stack:
+## 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -38,12 +38,12 @@
 
 ## 📊 GitHub Stats:
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true)
+![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushi-Bedmutha&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Bedmutha&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Khushi-Bedmutha&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
