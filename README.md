@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Bedmutha</h1>
-<h3 align="center">BTech in Computer Engineering | MERN Stack Developer | UI/UX Enthusiast</h3>
+<h3 align="center">BTech in Computer Engineering </h3>
 
 ---
 
