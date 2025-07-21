@@ -9,7 +9,7 @@
 - 👩‍💻 Passionate **MERN Stack Developer** with strong communication, teamwork, and problem-solving skills.
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, JavaScript, C++, Figma**.
 - 📫 Reach me: [khushparv@gmail.com](mailto:khushparv@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khushi-bedmutha-850041257/)
-- 🌐 Portfolio: [portfolio-nine-phi-48.vercel.app]((https://khushi-bedmutha.vercel.app/))
+- 🌐 Portfolio: [https://khushi-bedmutha.vercel.app/]((https://khushi-bedmutha.vercel.app/))
 
 ---
 
